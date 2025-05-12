@@ -1,0 +1,3 @@
+
+curl -X DELETE http://localhost:3000/api/todos/68216079ad2983facda906a3 \
+-H "Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4MjE1Zjg5Y2Y5ZjViZmFjMGY4NDFmMCIsImlhdCI6MTc0NzAyMTI0NCwiZXhwIjoxNzQ3MDI0ODQ0fQ.ePW925Ss2abK-FNU8hG50IVmB92rzpBizLAmCvcGCTk"
